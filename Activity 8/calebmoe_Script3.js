@@ -40,4 +40,4 @@ const r = prompt("Enter radius:");
 console.log(`Updating circle with ${r}`);
 setCircleRadius(r);
 console.log(`Updated rectangle with ${getCircleRadius()}`);
-console.log(`The area of ${typeof(circle)} with radius ${getCircleRadius()} is ${getCircleArea()}`)
+console.log(`The area of ${typeof(circle)} with radius ${getCircleRadius()} is ${getCircleArea().toFixed(2)}`);
