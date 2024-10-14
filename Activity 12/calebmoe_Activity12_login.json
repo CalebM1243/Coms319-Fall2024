@@ -1,0 +1,11 @@
+
+[{
+    "user": "Abraham Aldaco",
+    "admin":true,
+    "password": "secoms3190"
+},
+{
+    "user": "joe",
+    "admin":true,
+    "password": "moe"
+}]

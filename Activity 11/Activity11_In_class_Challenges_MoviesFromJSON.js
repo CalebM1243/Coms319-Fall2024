@@ -80,4 +80,4 @@ function showCardsContainingDescriptionB(){
     .then(myMovies => loadMovies(myMovies.movies, 3))
     .catch(err => console.log("Error :"+err));
 }
-
+fetchMovies()
