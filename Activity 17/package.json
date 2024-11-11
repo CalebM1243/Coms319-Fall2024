@@ -1,0 +1,17 @@
+{
+  "name": "activity",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caleb moe",
+  "license": "ISC",
+  "dependencies": {
+    "activity": "file:",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
